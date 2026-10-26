@@ -1,0 +1,15 @@
+{
+  "name": "FPS Counter",
+  "author": "Jordan Valencia",
+  "version": 1.0,
+  "description": "Minimal FPS readout.",
+  "directive": "fpsCounter",
+  "domElement": "<fps-counter></fps-counter>",
+  "types": ["realtime"],
+  "css": {
+    "top": "10px",
+    "left": "10px",
+    "width": "90px",
+    "height": "30px"
+  }
+}
